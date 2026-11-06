@@ -1,9 +1,15 @@
 BEGIN:VCARD
 VERSION:3.0
+N:FNR;DJ;;;
 FN:DJ FNR
-ORG:DJ FNR
+ORG:DJ FNR - For No Reason
+TITLE:Houston's Kid DJ
 TEL;TYPE=CELL:+18324080540
 EMAIL;TYPE=INTERNET:bookdjfnr@gmail.com
 URL:https://djfnr.com
-NOTE:He just does it for the love.
+URL;TYPE=Facebook:https://www.facebook.com/bookdjfnr
+URL;TYPE=Instagram:https://www.instagram.com/bookdjfnr/
+URL;TYPE=TikTok:https://www.tiktok.com/@bookdjfnr
+URL;TYPE=YouTube:https://www.youtube.com/@bookdjfnr
+NOTE:Digital card https://djfnr.com/card/
 END:VCARD
